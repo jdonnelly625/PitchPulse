@@ -15,6 +15,7 @@ During soccer games, forums host live match threads that are flooded with user c
 - **AWS Lambda**: Processes data and handles backend logic in a scalable, event-driven manner.
 - **AWS EventBridge**: Manages event triggers for Lambda functions, ensuring timely execution of tasks.
 - **AWS ECS**: Runs containerized applications, allowing for isolated environments and consistent deployment.
+- **AWS S3**: Stores figures which front ends will pull from to update webpage.
 
 ## Features
 
