@@ -17,6 +17,8 @@ During soccer games, forums host live match threads that are flooded with user c
 - **AWS ECS**: Runs containerized applications, allowing for isolated environments and consistent deployment.
 - **AWS S3**: Stores figures which front ends will pull from to update webpage.
 
+![Flowchart](./flowchart.png)
+
 ## Features
 
 - **Real-time Tracking**: Monitors Reddit match threads for player mentions.
